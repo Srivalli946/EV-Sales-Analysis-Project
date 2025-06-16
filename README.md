@@ -30,7 +30,6 @@ images/![Yearly EV sales](https://github.com/user-attachments/assets/bf041766-c0
 ![Top 20 Feature importances](https://github.com/user-attachments/assets/dfed0646-4758-4ba7-bb8e-a7965303212c)  # Plots and visuals generated during analysis
 ```
 
-
 ## 📈 Key Insights
 
 - The global EV market has seen exponential growth since 2010.
