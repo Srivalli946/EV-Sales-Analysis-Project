@@ -24,7 +24,7 @@ Electric vehicles are becoming increasingly popular as countries push for cleane
 ```
 EV_Sales_Analysis_Project.ipynb  # Main analysis notebook
 [Electric Vehicle Sales by State in India.csv](https://github.com/user-attachments/files/20764234/Electric.Vehicle.Sales.by.State.in.India.csv) # Folder to store raw and cleaned datasets (if used)
-images/ ![Yearly EV sales](https://github.com/user-attachments/assets/bf041766-c035-4f99-8d13-839006a93732)
+images/![Yearly EV sales](https://github.com/user-attachments/assets/bf041766-c035-4f99-8d13-839006a93732)
 ![State wise EV sales](https://github.com/user-attachments/assets/cddbcf5e-cc42-4665-adc3-cce91ec673b0)
 ![Actual vs Predicted EV sales](https://github.com/user-attachments/assets/2294878a-bd1f-4943-bc05-ef2e9be310e7)
 ![Top 20 Feature importances](https://github.com/user-attachments/assets/dfed0646-4758-4ba7-bb8e-a7965303212c)  # Plots and visuals generated during analysis
